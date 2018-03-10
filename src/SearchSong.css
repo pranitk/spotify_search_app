@@ -1,0 +1,15 @@
+form{
+    padding: 24px;
+  }
+
+
+#searchBtn{
+    background-color: #0072ee;
+}
+
+
+#input_song_name{
+    margin: auto;
+    text-align: center;
+    color: teal;
+}
